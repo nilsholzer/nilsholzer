@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Was geht ich schreib hier nur was rein damit ich GitHub Copilot nutzen kann
+
 <!--
 **nilsholzer/nilsholzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
